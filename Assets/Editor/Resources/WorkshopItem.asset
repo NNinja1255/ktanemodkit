@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Name: WorkshopItem
   m_EditorClassIdentifier: 
   WorkshopPublishedFileID: 3360671882
-  Title: Ganon saying "die" as you explode
+  Title: Patchy saying "NO" when you get a strike
   Tags:
   - Audio
